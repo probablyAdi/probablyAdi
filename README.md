@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aditya
 
 # 💫 About Me:
-🔭 I’m currently working on open-source projects to gain real-world coding experience.<br><br>🌱 I’m currently learning Google Cloud tools for machine learning and data analysis.<br><br>🤝 I’m looking for help with study groups or coding communities to join!<br><br>📫 Reach me at adiiiwork1@gmail.com<br><br>⚡ I enjoy coding late night when it's quiet!
+🌱 I’m currently learning **Python**. <br><br>🤝 I’m looking  to join **study groups or coding communities!** <br><br>📫 Reach me at **adiiiwork1@gmail.com**<br><br>⚡ I enjoy coding late night when it's quiet!
 
 
 ## 🌐 Socials:
